@@ -2,21 +2,21 @@
 # If you need help, join our discord server here: https://discord.gg/zv6maQRah3
 
 # Bot Configuration
-token: 'Put bot token here'
+token: 'MTE3MTMwNzM5OTY1MTUyNDYwOA.GUjKmC.1svTYWSc_dtdmzRtHRKn3BHoNkH6vS03VrFemY'
 presence:
     text: 'Hosting Panel'
     type: 'watching' # can be 'watching', 'playing', 'listening', or 'competing'. for 'streaming' is not working for now
     status: 'online' # can be 'online', 'idle', 'dnd', or 'invisible'
 
 # Discord Channel and Refresh Time Configuration
-channel: 'Put channel id here'
+channel: '1171302201302470716'
 refresh: 60 # How much time the bot will refresh the stats
 timeout: 1 # How much time to wait some node to respond to the bot (if you change this, it will add more time to refresh the stats)
 
 # Panel Configuration
 panel:
-    url: 'Put panel url here'
-    key: 'Put panel apikey here'
+    url: 'https://larxmods.digital-market.me/'
+    key: 'ptla_hfnc2aompUtRdHdSIkwuWFBhQPvphB7gN0cDaboMMZH'
 
 # Message and Embed Configuration
 # leave '' if you want to disable option
@@ -40,11 +40,11 @@ embed:
 button:
     enable: true
     btn1:
-        label: 'PteroStats'
-        url: 'https://github.com/HirziDevs/PteroStats'
+        label: 'Official Website'
+        url: 'https://valzdev.000webhostapp.com'
     btn2:
-        label: ''
-        url: ''
+        label: 'Login To panel'
+        url: 'https://larxmods.digital-market.me'
     btn3:
         label: ''
         url: ''
